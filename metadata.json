@@ -1,0 +1,6 @@
+{
+  "name": "양우종합건설 연차휴가 사용촉진 모바일 업무 시스템",
+  "description": "대한민국 건설회사 노무·증거보존 기준을 준수하는 양우종합건설 연차휴가 사용촉진 안내·수령확인·사용계획·부서장 결재·인사총무팀 제출 반응형 모바일 업무 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
